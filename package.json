@@ -18,6 +18,7 @@
   ],
   "author": "Brad Traynham",
   "license": "MIT",
+  "repository": "btray77/color-palette-generator",
   "dependencies": {},
   "devDependencies": {
     "jest": "^26.6.3"
