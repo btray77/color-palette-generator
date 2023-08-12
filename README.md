@@ -13,16 +13,16 @@ A utility to generate aesthetic color palettes in multiple formats (RGB, HEX, HS
 
 ## Installation:
 
-    npm install color-palette-generator
+    npm install utility-color-palette-generator
 
 ...
 
 ## Usage:
 
-Here's how to use the color palette generator:
+Here's how to use the utility color palette generator:
 
     javascript
-    import { generatePalette } from 'color-palette-generator';
+    import { generatePalette } from 'utility-color-palette-generator';
 
     // Generate a default palette with 5 colors
     const defaultPalette = generatePalette();
