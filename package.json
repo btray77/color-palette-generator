@@ -1,8 +1,8 @@
 {
   "name": "utility-color-palette-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A utility to generate color palettes with multiple formats and modes.",
-  "main": "src/generator.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
